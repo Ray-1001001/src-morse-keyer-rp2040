@@ -1,6 +1,6 @@
 # src-morse-keyer-rp2040
 
-This is a Morse keyer that will transmit CW on 7020Khz, produce an audio tone, and key a transceiver. It connects to a PC USB port and is controlled by a terminal program such as Terra Term.  There are 10 macros for message storage and the morse charachters can be sent by typing from the keyboard.
+This is a Morse keyer that will transmit CW on 7020Khz, produce an audio tone, and key a transceiver. It connects to a PC USB port and is controlled by a terminal program such as Terra Term.  There are 10 macros for message storage and the morse carachters can be sent by typing from the keyboard.
 
 Tera Term setup
 Open Terra Term.and connect the programmed Pico to the USB port on the laptop with a USB to 
